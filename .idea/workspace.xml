@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="Homework 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +45,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,14 +75,23 @@
       <workItem from="1674153960745" duration="4656000" />
       <workItem from="1674213522641" duration="3683000" />
       <workItem from="1674236799960" duration="12000" />
-      <workItem from="1674238520902" duration="6877000" />
+      <workItem from="1674238520902" duration="7545000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework 2">
+      <created>1674246066307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674246066307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2" />
   </component>
 </project>
