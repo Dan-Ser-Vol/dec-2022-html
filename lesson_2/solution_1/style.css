@@ -1,0 +1,58 @@
+
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.container{
+    display: flex;
+    margin:0 auto ;
+    flex-direction: column;
+    background-color: #EDFFC8;
+    width: 600px;
+    row-gap: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+
+}
+
+.one {
+    height: 250px;
+    margin: 10px 10px 0 10px;
+}
+.two {
+    display: flex;
+    height: 250px;
+    gap: 10px;
+    background-color: #EDFFC8;
+}
+
+.three {
+    height: 350px;
+    margin: 0 10px 10px 10px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: blue;
+    width: 100%;
+}
+
+.two:nth-child(1n - 3) {
+    margin-right: 10px;
+}
+
+.two:nth-child(1n - 1) {
+    margin-left: 10px;
+}
+
