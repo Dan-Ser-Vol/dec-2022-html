@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    width: 1200px;
+    gap: 10px;
+    background-color: silver;
+}
+
+.block_one {
+    background-color: deepskyblue;
+}
+
+.block_two {
+    background-color: yellow;
+}
+
+.cart {
+}
+
+.logo {
+}
+
+.description {
+}
+

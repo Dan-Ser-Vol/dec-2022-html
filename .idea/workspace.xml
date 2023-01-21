@@ -4,21 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_3/images/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_3/images/fire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_3/images/geozone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_3/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_3/style.css" afterDir="false" />
+    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="added solution three">
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/solution_1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_1/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/solution_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,10 +36,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/lesson_2/solution_3",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -60,11 +64,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673982704516</updated>
-      <workItem from="1674314274461" duration="3500000" />
+      <workItem from="1674314274461" duration="5320000" />
     </task>
+    <task id="LOCAL-00001" summary="added solution three">
+      <created>1674318103874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674318103874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added solution three" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solution three" />
   </component>
 </project>
