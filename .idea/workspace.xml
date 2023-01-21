@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="added solution three">
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/style.css" afterDir="false" />
+    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="added solution">
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/identify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/social-media-68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/wordpress.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/solution_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/solution_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/solution_4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/lesson_2/solution_3",
+    "last_opened_file_path": "C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/lesson_2/solution_4/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,9 +59,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_4\images" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_4\images" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_3\images" />
     </key>
   </component>
@@ -64,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673982704516</updated>
-      <workItem from="1674314274461" duration="5320000" />
+      <workItem from="1674314274461" duration="10239000" />
     </task>
     <task id="LOCAL-00001" summary="added solution three">
       <created>1674318103874</created>
@@ -73,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674318103874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added solution">
+      <created>1674324410163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674324410163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added solution three" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solution three" />
+    <MESSAGE value="added solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solution" />
   </component>
 </project>

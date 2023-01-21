@@ -1,24 +1,46 @@
 .container {
     display: flex;
     width: 1200px;
-    gap: 10px;
-    background-color: silver;
+    margin: 50px auto;
+    background-color: #5980b4;
+    padding: 50px 20px;
+    gap: 20px;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
 }
 
 .block_one {
-    background-color: deepskyblue;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .block_two {
-    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #bbb77c;
+    border-radius: 3px;
+    padding: 10px;
 }
 
 .logo {
+    padding: 15px;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
 }
 
 .description {
+    padding:5px;
+    color: #5980b4;
 }
 
