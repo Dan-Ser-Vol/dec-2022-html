@@ -34,3 +34,9 @@ p{
 .button:hover {
     background-color: #f6f4f4;
 }
+
+.class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
