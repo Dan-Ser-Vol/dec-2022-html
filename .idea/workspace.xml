@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="added solution">
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/design.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/development.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/identify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/services.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/social-media-68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/solution_4/images/wordpress.png" afterDir="false" />
+    <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="finished solution 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/solution_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/solution_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/solution_4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_4/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/solution_3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_3/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lesson_2/solution_3/index.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,26 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/lesson_2/solution_4/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/draft/image&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\draft\image" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_4\images" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\draft\image" />
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\draft" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_4\images" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_3\images" />
     </key>
@@ -75,7 +72,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673982704516</updated>
-      <workItem from="1674314274461" duration="10239000" />
+      <workItem from="1674314274461" duration="10725000" />
+      <workItem from="1674384659009" duration="2992000" />
+      <workItem from="1674406420138" duration="2402000" />
+      <workItem from="1674468175733" duration="8632000" />
+      <workItem from="1674487516383" duration="1904000" />
     </task>
     <task id="LOCAL-00001" summary="added solution three">
       <created>1674318103874</created>
@@ -91,15 +92,34 @@
       <option name="project" value="LOCAL" />
       <updated>1674324410163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished solution 4">
+      <created>1674333902036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674333902036</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added solution three" />
     <MESSAGE value="added solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solution" />
+    <MESSAGE value="finished solution 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished solution 4" />
   </component>
 </project>

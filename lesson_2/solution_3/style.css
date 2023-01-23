@@ -30,6 +30,10 @@
     box-shadow: 5px 5px 15px #41c7b3;
 }
 
+.cart:hover {
+
+}
+
 .button {
     padding: 10px 20px;
     border-radius: 3px;
