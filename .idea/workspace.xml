@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="finished solution 4">
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_2/images/earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_2/images/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_2/images/geozone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_2/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/solution_2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/solution_3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/solution_3/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
       </list>
@@ -42,27 +50,40 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/draft/image&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/lesson_3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_3" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\draft\image" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_4\images" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_3\solution_1" />
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_3" />
+      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\draft\image" />
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\draft" />
-      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_4\images" />
-      <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_2\solution_3\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/draft/main.js" working-dir="$PROJECT_DIR$/draft">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,6 +98,11 @@
       <workItem from="1674406420138" duration="2402000" />
       <workItem from="1674468175733" duration="8632000" />
       <workItem from="1674487516383" duration="1904000" />
+      <workItem from="1674505111764" duration="6487000" />
+      <workItem from="1674553212140" duration="963000" />
+      <workItem from="1674596289589" duration="372000" />
+      <workItem from="1674638756875" duration="5512000" />
+      <workItem from="1674659273325" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="added solution three">
       <created>1674318103874</created>
