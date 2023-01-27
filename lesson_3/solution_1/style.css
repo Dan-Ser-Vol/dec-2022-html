@@ -22,12 +22,19 @@ body {
 
 }
 
-.nav {
+.menu {
     display: flex;
     margin-right: 50px;
     width: 150px;
     justify-content: space-evenly;
 }
+
+
+.search, .burger, .logo {
+    font-size: 30px;
+    color: #6964E2;
+}
+
 
 .logo {
     display: flex;
@@ -41,10 +48,6 @@ body {
 
 }
 
-.search, .burger, .logo {
-    font-size: 30px;
-    color: #6964E2;
-}
 
 .main {
     display: flex;
