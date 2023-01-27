@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e6a4a86-f43a-420f-b342-37d0b884aea6" name="Changes" comment="added homework 3">
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_1/css/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_1/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_2/css/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_2/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/solution_2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/solution_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/solution_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/solution_1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/solution_1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/solution_2/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/solution_2/css/media.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +43,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/lesson_4",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\KDFX Modes\\IdeaProjects\\dec-2022-html\\.idea",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KDFX Modes/IdeaProjects/dec-2022-html/lesson_4&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\KDFX Modes\\IdeaProjects\\dec-2022-html\\.idea&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\KDFX Modes\IdeaProjects\dec-2022-html\lesson_4" />
@@ -120,6 +111,7 @@
       <workItem from="1674684606325" duration="784000" />
       <workItem from="1674685422148" duration="1551000" />
       <workItem from="1674745860117" duration="18878000" />
+      <workItem from="1674811501593" duration="2315000" />
     </task>
     <task id="LOCAL-00001" summary="added solution three">
       <created>1674318103874</created>
